@@ -9,3 +9,8 @@ The YouTube platform has two kinds of users - the ones that post videos and othe
 
 ## Problem definition 
 The goal of this project is to explore data mining techniques to create a reliable predictive model that can foresee YouTube video trendiness given that a video has already shown up on the platform’s top trending list, once. Trendiness across all videos is measured by the frequency in which a video is displayed on the trending list. The videos that are captured on the “trending list” do not necessarily consist of the most viewed, liked or commented on videos. For a video to be selected on the top trending list, a combination of factors are taken into consideration. 
+
+## Creator
+Chia-Han Chiang (https://www.linkedin.com/in/chia-han-chiang/)
+
+Khushboo Harjani (https://www.linkedin.com/in/khushboo-harjani/)
