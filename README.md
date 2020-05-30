@@ -1,4 +1,4 @@
-# Predictive-model-of-YouTube-trending-Video
+# Predictive model of YouTube trending Video
 
 ## Dataset
 The dataset is obtained from the www.kaggle.com website, where information is continuously updated. Everyday a list of 200 trending videos are added to the dataset. Each record on the dataset represents an instance when a video is displayed on the trending list. 
